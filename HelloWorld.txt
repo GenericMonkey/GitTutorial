@@ -1,6 +1,1 @@
-Hello World! 
-My name is Pranav.
-This is an example.
-Add
-I'm adding new stuff to the file
-This was added on the computer, but not on my local copy
+Hello World!
